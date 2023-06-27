@@ -6,7 +6,7 @@
   ECHO "testando 3 <br>";
 
   // É case sensitive
-  $nome = "Matheus";
+  $nome = "Bianca";
   $NOME = "Teste";
 
   echo $nome;
